@@ -1,3 +1,4 @@
+<img width="591" height="774" alt="Screenshot 2026-06-09 190710" src="https://github.com/user-attachments/assets/568617c6-3a2a-409b-95a7-d27281a5d26e" />
 # Java Login App – JDBC + MySQL
 
 A complete Java Swing login system with MySQL database connectivity via JDBC.
