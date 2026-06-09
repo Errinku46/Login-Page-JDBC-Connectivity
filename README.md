@@ -88,8 +88,8 @@ java -cp "out;lib\mysql-connector-j-*.jar" com.login.Main
 
 | Username | Password  | Role  |
 |----------|-----------|-------|
-| admin    | admin123  | admin |
-| user     | user123   | user  |
+| rinku    | 052002    | user |
+| shahji   | naveen31  | user  |
 
 ---
 
